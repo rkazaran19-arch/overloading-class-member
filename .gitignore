@@ -1,5 +1,6 @@
 # Ignore course materials in src (docs/slides/etc.)
 /src/
+src/**
 
 # Usual .NET build outputs (kept here for convenience, even if already ignored elsewhere)
 [Bb]in/
