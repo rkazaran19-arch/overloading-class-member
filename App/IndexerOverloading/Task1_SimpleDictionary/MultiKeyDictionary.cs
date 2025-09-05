@@ -2,8 +2,6 @@
 // Реализуйте два индексатора: по ключу и по паре (category, key).
 // При чтении отсутствующих ключей кидайте KeyNotFoundException.
 
-using System.Collections.Generic;
-
 namespace App.IndexerOverloading.Task1_SimpleDictionary;
 
 public class MultiKeyDictionary

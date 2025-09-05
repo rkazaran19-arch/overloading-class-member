@@ -1,10 +1,8 @@
-using System.Globalization;
 using App.MethodOverloading.Task3_PrintFormatter;
-using System.Collections.Generic;
 
 namespace App.Tests.MethodOverloading.Task3_PrintFormatter;
 
-[Category("Additional")]
+
 public class PrinterTests_Starred
 {
     [Test]

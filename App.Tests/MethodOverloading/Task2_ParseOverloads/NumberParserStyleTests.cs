@@ -3,7 +3,7 @@ using App.MethodOverloading.Task2_ParseOverloads;
 
 namespace App.Tests.MethodOverloading.Task2_ParseOverloads;
 
-[Category("Additional")]
+
 public class NumberParserStyleTests_Starred
 {
     [Test]

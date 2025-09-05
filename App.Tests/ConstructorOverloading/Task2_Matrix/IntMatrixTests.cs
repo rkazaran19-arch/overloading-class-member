@@ -2,7 +2,7 @@ using App.ConstructorOverloading.Task2_Matrix;
 
 namespace App.Tests.ConstructorOverloading.Task2_Matrix;
 
-[Category("Additional")]
+
 public class IntMatrixTests_Starred
 {
     [Test]

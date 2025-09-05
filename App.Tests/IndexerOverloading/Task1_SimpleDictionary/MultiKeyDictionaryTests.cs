@@ -2,7 +2,7 @@ using App.IndexerOverloading.Task1_SimpleDictionary;
 
 namespace App.Tests.IndexerOverloading.Task1_SimpleDictionary;
 
-[Category("Required")]
+
 public class MultiKeyDictionaryTests
 {
     [Test]

@@ -2,7 +2,7 @@ using App.ConstructorOverloading.Task3_Range;
 
 namespace App.Tests.ConstructorOverloading.Task3_Range;
 
-[Category("Required")]
+
 public class InclusiveRangeTests
 {
     [Test]

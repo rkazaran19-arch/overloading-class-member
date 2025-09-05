@@ -2,7 +2,7 @@ using App.MethodOverloading.Task1_SumOverloads;
 
 namespace App.Tests.MethodOverloading.Task1_SumOverloads;
 
-[Category("Required")]
+
 public class SumUtilTests
 {
     [Test]

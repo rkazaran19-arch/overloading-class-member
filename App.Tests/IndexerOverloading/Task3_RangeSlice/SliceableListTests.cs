@@ -2,7 +2,7 @@ using App.IndexerOverloading.Task3_RangeSlice;
 
 namespace App.Tests.IndexerOverloading.Task3_RangeSlice;
 
-[Category("Additional")]
+
 public class SliceableListTests_Starred
 {
     [Test]

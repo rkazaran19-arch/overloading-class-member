@@ -1,8 +1,6 @@
 // Задача: Перегрузка методов — Print
 // Реализуйте перегруженные методы Print согласно README. Методы должны возвращать строку.
 
-using System.Collections.Generic;
-
 namespace App.MethodOverloading.Task3_PrintFormatter;
 
 public static class Printer

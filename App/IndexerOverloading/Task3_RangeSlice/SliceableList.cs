@@ -1,10 +1,6 @@
 // Задача: Перегрузка индексаторов — SliceableList<T>
 // Реализуйте индексаторы: [int index], [Index], [Range]
 
-using System;
-using System.Collections;
-using System.Collections.Generic;
-
 namespace App.IndexerOverloading.Task3_RangeSlice;
 
 public class SliceableList<T>

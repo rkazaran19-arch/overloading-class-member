@@ -1,9 +1,8 @@
-using System.Globalization;
 using App.MethodOverloading.Task2_ParseOverloads;
 
 namespace App.Tests.MethodOverloading.Task2_ParseOverloads;
 
-[Category("Required")]
+
 public class NumberParserTests
 {
     [Test]

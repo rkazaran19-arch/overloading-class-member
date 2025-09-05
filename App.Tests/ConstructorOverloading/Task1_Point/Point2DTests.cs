@@ -2,7 +2,7 @@ using App.ConstructorOverloading.Task1_Point;
 
 namespace App.Tests.ConstructorOverloading.Task1_Point;
 
-[Category("Required")]
+
 public class Point2DTests
 {
     [Test]

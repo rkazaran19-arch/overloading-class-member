@@ -2,7 +2,7 @@ using App.IndexerOverloading.Task2_TwoDimGrid;
 
 namespace App.Tests.IndexerOverloading.Task2_TwoDimGrid;
 
-[Category("Required")]
+
 public class GridTests
 {
     [Test]
