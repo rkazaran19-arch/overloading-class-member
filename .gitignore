@@ -1,0 +1,13 @@
+# Ignore course materials in src (docs/slides/etc.)
+/src/
+
+# Usual .NET build outputs (kept here for convenience, even if already ignored elsewhere)
+[Bb]in/
+[Oo]bj/
+
+# Rider/IDE files
+.idea/
+*.suo
+*.user
+*.userosscache
+*.sln.docstates
