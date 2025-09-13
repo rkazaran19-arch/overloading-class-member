@@ -7,7 +7,7 @@ public class Point2D
 {
     // Координаты точки. Сделаны только для чтения снаружи.
     public int X { get; private set; }
-    public int Y { get; private set; }
+    public int Y { get; private set; } = 0;
 
     // Конструктор по умолчанию: (0,0)
     public Point2D()
